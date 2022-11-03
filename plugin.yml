@@ -1,0 +1,5 @@
+name: Core
+version: 1.0.0
+main: Core\Core
+api: 4.0.0
+author: Julien
