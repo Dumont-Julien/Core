@@ -1,0 +1,14 @@
+{
+    "name": "vendor/composer",
+    "authors": [
+        {
+            "name": "Julien"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    },
+    "require": {}
+}
